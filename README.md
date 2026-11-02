@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Imran 👋
 
-### “BI & Business Analyst” | ERP | SQL | Requirements Analysis
+### BI & Business Analyst | ERP | SQL | Requirements Analysis
 
 I'm an IT professional with **8+ years of experience** in ERP implementation, technical pre-sales and client solution consulting across India, Saudi Arabia and Qatar. I'm good at listening to what a business needs and turning it into clear requirements, useful reports and working solutions.
 
