@@ -19,10 +19,10 @@ I'm now building on this foundation to move into **BI & Business Analyst**, comb
 - **ERP Systems:** Oracle EBS R12, Focus ERP
 - **Tools:** MS Office, Microsoft 365
 
-## 📚 Currently Learning
-- Advanced SQL
-- Excel (pivot tables, dashboards)
-- Power BI
+   ## 📚 Currently Learning
+   - Advanced SQL
+   - Excel (pivot tables, dashboards)
+   - Advanced Power BI (DAX, data modelling)
 
 ## 🌍 Languages
 English | Hindi | Urdu | Telugu
