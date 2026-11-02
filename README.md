@@ -7,7 +7,7 @@ I'm an IT professional with **8+ years of experience** in ERP implementation, te
 I'm now building on this foundation to move into **BI & Business Analyst role**, combining my business and ERP background with SQL, Excel and Power BI.
 
 ## 💼 Background
-- Implemented **Oracle EBS R12** and **Focus ERP** across multiple branches and districts
+- Implemented **Oracle EBS R12** and **Focus ERP** across multiple branches and districts.
 - Gathered business requirements and wrote **Software Requirement Specifications (SRS)**
 - Built customised ERP reports to reduce manual reporting effort
 - Managed SQL database backup and recovery
