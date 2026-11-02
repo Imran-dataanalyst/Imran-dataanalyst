@@ -4,10 +4,10 @@
 
 I'm an IT professional with **8+ years of experience** in ERP implementation, technical pre-sales and client solution consulting across India, Saudi Arabia and Qatar. I'm good at listening to what a business needs and turning it into clear requirements, useful reports and working solutions.
 
-I'm now building on this foundation to move into **BI & Business Analyst role**, combining my business and ERP background with SQL, Excel and Power BI.
+I'm now building on this foundation to move into a **BI & Business Analyst role**, combining my business and ERP background with SQL, Excel and Power BI.
 
 ## 💼 Background
-- Implemented **Oracle EBS R12** and **Focus ERP** across multiple branches and districts.
+- Implemented **Oracle EBS R12** and **Focus ERP** across multiple branches and districts
 - Gathered business requirements and wrote **Software Requirement Specifications (SRS)**
 - Built customised ERP reports to reduce manual reporting effort
 - Managed SQL database backup and recovery
