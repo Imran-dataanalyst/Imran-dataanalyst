@@ -15,7 +15,7 @@ I'm now building on this foundation to move into **BI & Business Analyst**, comb
 
 ## 🛠️ Skills
 - **Data & Reporting:** SQL (MySQL, SQL Server), Excel, Power BI.
-- **Business Analysis:** Requirements gathering, SRS documentation, process analysis, stakeholder engagement
+- **Business Analysis:** Requirements Gathering, SRS documentation, Process Analysis, Stakeholder Engagement
 - **ERP Systems:** Oracle EBS R12, Focus ERP
 - **Tools:** MS Office, Microsoft 365
 
