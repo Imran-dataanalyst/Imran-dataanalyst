@@ -28,7 +28,7 @@ I'm now building on this foundation to move into a **BI & Business Analyst role*
 English | Hindi | Urdu | Telugu
 
 ## 📂 Projects
-Portfolio projects are coming soon. I'm building hands-on work in data analysis and business analysis, and will add each one here.
+I built some BI projects and added them to my repository. Please have a look on them. 
 
 ## 📫 Connect with me
 [LinkedIn](https://linkedin.com/in/imrananalyst)
